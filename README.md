@@ -1,2 +1,3 @@
 # bootcampDio2023
- Projetos e exercicios do Bootcamp Angular Dio PotenciaTech Ifood
+ Projeto do Bootcamp Angular Dio PotenciaTech Ifood.
+ Curriculum no modelo w3c.
